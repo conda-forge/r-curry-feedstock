@@ -1,11 +1,11 @@
-About r-curry
-=============
+About r-curry-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-curry-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/thomasp85/curry
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-curry-feedstock/blob/main/LICENSE.txt)
 
 Summary: Partial application is the process of reducing the arity of a function by fixing one or more arguments, thus creating a new function lacking the fixed arguments. The curry package provides three different ways of performing partial function application by fixing arguments from either end of the argument list (currying and tail currying) or by fixing multiple named arguments (partial application). This package provides this functionality through the %<%, %-<%, and %><% operators which allows for a programming style comparable to modern functional languages. Compared to other implementations such a purrr::partial() the operators in curry composes functions with named arguments, aiding in autocomplete etc.
 
